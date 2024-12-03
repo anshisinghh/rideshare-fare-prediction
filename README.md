@@ -20,4 +20,4 @@ We used the **NYC Taxi and Limousine Commission (TLC)** trip record data, specif
 The dataset is publicly available on the [NYC TLC website](https://www.nyc.gov/assets/tlc/downloads/pdf/2022_summary_data.pdf).
 
 ## Model Training and Evaluating
-You can learn more about our model training and evaluation through our report **`assignment2_report.pdf`**.
+You can learn more about our model training and evaluation through our report **`writeup.pdf`**.
