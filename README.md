@@ -4,11 +4,10 @@ This project focuses on developing and optimizing a neural network to predict ri
 
 ## Project Structure
 
-- **`hyperparameter_tuning.ipynb`**: Runs the model with hyperparameter tuning using grid search.
-- **`neural_model_1.ipynb`**: Runs the model without feature selection.
-- **`neural_model_2.ipynb`**: Runs the model without feature selection.
-- **`neural_model_final.ipynb`**: Runs the model with feature selection.
-
+- [hyperparameter_tuning.ipynb](https://github.com/anshisinghh/rideshare-fare-prediction/blob/main/hyperparameter_tuning.ipynb): Runs the model with hyperparameter tuning using grid search.
+- [neural_model_1.ipynb](https://github.com/anshisinghh/rideshare-fare-prediction/blob/main/neural_model_1.ipynb): Runs the model without feature selection.
+- [neural_model_2.ipynb](https://github.com/anshisinghh/rideshare-fare-prediction/blob/main/neural_model_2.ipynb): Runs the model without feature selection.
+- [neural_model_final.ipynb](https://github.com/anshisinghh/rideshare-fare-prediction/blob/main/neural_model_final.ipynb): Runs the model with feature selection.
 
 ## Dataset
 
@@ -20,4 +19,4 @@ We used the **NYC Taxi and Limousine Commission (TLC)** trip record data, specif
 The dataset is publicly available on the [NYC TLC website](https://www.nyc.gov/assets/tlc/downloads/pdf/2022_summary_data.pdf).
 
 ## Model Training and Evaluating
-You can learn more about our model training and evaluation through our report **`writeup.pdf`**.
+You can learn more about our model training and evaluation through our report [writeup.pdf](https://github.com/anshisinghh/rideshare-fare-prediction/blob/main/writeup.pdf).
